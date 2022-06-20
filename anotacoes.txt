@@ -1,0 +1,27 @@
+// Requisitos para começar a desenvolver em C# //
+
+- Instalar .Net SDK - https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.300-windows-x64-installer
+- Checar a versão - dotnet --version
+
+---------------------- COMANDOS CMD ------------------------------
+
+* Listar conjunto de projetos:
+dotnet new --list
+
+* Criar um novo projeto .Net:
+
+dotnet new + tipo de projeto (nome curto) + --output + NomeProjeto
+ex.: dotnet new console -o OlaMundo
+
+* Compilar o Programa:
+dotnet run
+
+------------------- ACESSO COMMAND + SHIFT + P ------------
+
+.NET Generate Assets for Build and Debug (Dar permissões ao .net no VScode)
+
+--------------------- OUTROS -------------------------------
+
+ALT + SHIFT + F - IDENTAÇÃO
+
+*/
