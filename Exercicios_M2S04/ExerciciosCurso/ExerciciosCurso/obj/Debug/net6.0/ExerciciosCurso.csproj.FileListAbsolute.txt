@@ -1,0 +1,15 @@
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\bin\Debug\net6.0\ExerciciosCurso.exe
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\bin\Debug\net6.0\ExerciciosCurso.deps.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\bin\Debug\net6.0\ExerciciosCurso.runtimeconfig.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\bin\Debug\net6.0\ExerciciosCurso.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\bin\Debug\net6.0\ExerciciosCurso.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\refint\ExerciciosCurso.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ExerciciosCurso.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Exercicios_M2S04\ExerciciosCurso\ExerciciosCurso\obj\Debug\net6.0\ref\ExerciciosCurso.dll
