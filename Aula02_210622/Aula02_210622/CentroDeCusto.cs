@@ -18,7 +18,7 @@ namespace Aula02_210622
 
         public int AnoVerbaLiberada { get; set; }
 
-        public CentroDeCusto (int id, string descricao,
-            DateTime dataCriacao, int anoVerbaLiberada);
+        //public CentroDeCusto (int id, string descricao,
+           // DateTime dataCriacao, int anoVerbaLiberada);
     }
 }
