@@ -1,0 +1,17 @@
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\bin\Debug\net6.0-windows\ExercicioMod2-WindowsForms.exe
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\bin\Debug\net6.0-windows\ExercicioMod2-WindowsForms.deps.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\bin\Debug\net6.0-windows\ExercicioMod2-WindowsForms.runtimeconfig.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\bin\Debug\net6.0-windows\ExercicioMod2-WindowsForms.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\bin\Debug\net6.0-windows\ExercicioMod2-WindowsForms.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2_WindowsForms.Form1.resources
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\refint\ExercicioMod2-WindowsForms.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ExercicioMod2-WindowsForms.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\ExercicioMod2-WindowsForms\ExercicioMod2-WindowsForms\obj\Debug\net6.0-windows\ref\ExercicioMod2-WindowsForms.dll

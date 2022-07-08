@@ -20,8 +20,16 @@ dotnet run
 
 .NET Generate Assets for Build and Debug (Dar permissões ao .net no VScode)
 
---------------------- OUTROS -------------------------------
+------------------------ OUTROS -------------------------------
 
 ALT + SHIFT + F - IDENTAÇÃO
 
 */
+
+------------------------- TDD -------------------------------------
+
+dotnet sln add - Adiciona o projeto de teste ao projeto principal
+
+dotnet restore - Restaura o projeto
+
+dotnet build - Compila o projeto para o .NET Core / cria o binário do projeto

@@ -1,0 +1,15 @@
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\bin\Debug\net6.0\exemploTrycat.exe
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\bin\Debug\net6.0\exemploTrycat.deps.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\bin\Debug\net6.0\exemploTrycat.runtimeconfig.json
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\bin\Debug\net6.0\exemploTrycat.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\bin\Debug\net6.0\exemploTrycat.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\refint\exemploTrycat.dll
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.pdb
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\exemploTrycat.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\exemploTrycat\obj\Debug\net6.0\ref\exemploTrycat.dll

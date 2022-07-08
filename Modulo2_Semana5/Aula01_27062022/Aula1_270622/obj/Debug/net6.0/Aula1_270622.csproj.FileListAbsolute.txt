@@ -1,0 +1,5 @@
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\obj\Debug\net6.0\Aula1_270622.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\obj\Debug\net6.0\Aula1_270622.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\obj\Debug\net6.0\Aula1_270622.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\obj\Debug\net6.0\Aula1_270622.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Cursos\DEVinhouse\Aulas\C#\Modulo2_Semana5\Aula01_27062022\Aula1_270622\obj\Debug\net6.0\Aula1_270622.csproj.CoreCompileInputs.cache
